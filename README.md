@@ -26,7 +26,7 @@ Options:
 JSON:
 ```json
 [
-    {
+	{
 		"url": "https://app.napster.com/",
 		"username": "x@gmail.com",
 		"password": "x"
