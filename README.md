@@ -4,6 +4,8 @@ Chrome password dumper written in Go for Linux and Windows.
 [Windows and Linux binaries](https://github.com/Sorrow446/Chrome-Password-Dumper/releases)
 
 # Usage
+Chrome can be running during dumping.
+
 Dump all credentials to "out.json":   
 `cpd_x64.exe -o out.json`
 
