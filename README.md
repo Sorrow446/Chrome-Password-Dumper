@@ -1,5 +1,6 @@
 # Chrome-Password-Dumper
-Chrome password dumper written in Go for Linux and Windows.
+Chrome password dumper written in Go for Linux and Windows.    
+**Looking for a mac user to test mac version.**
 
 # Usage
 Dump all credentials to "out.json":   
