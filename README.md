@@ -1,6 +1,6 @@
 # Chrome-Password-Dumper
 Chrome password dumper written in Go for Linux and Windows.    
-**Looking for a mac user to test mac version.**
+**Looking for a mac user to test mac version.**    
 [Windows and Linux binaries](https://github.com/Sorrow446/Chrome-Password-Dumper/releases)
 
 # Usage
