@@ -78,7 +78,7 @@ func decryptValue(encValue, password []byte) (string, error) {
 
 func getLoginData(loginDataPath string, password []byte) (*[]utils.LoginData, error) {
 	var (
-		allLoginData *[]utils.LoginData
+		allLoginData []utils.LoginData
 		url          string
 		username     string
 		encValue     []byte
